@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b91a01af4623f524c931154b8d0af275, type: 3}
+  m_Name: Sword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Sword
+  itemIcon: {fileID: 21300000, guid: e246b842f2664a340ab242032f9c6cd4, type: 3}
+  itemAmount: 1
+  itemDetials: Look!A shine sword!
+  stackable: 0
+  attackData: {fileID: 11400000, guid: 824cf683fa731eb4d96db2d63f276660, type: 2}
+  itemPrefab: {fileID: 575686302815088736, guid: 7ddde5677bcab6f47b01b2e0da3752d4, type: 3}
+  animator: {fileID: 22100000, guid: 014531a299eaa00439bd66ea31558702, type: 2}
+  usableData: {fileID: 0}

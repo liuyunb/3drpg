@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a6755803e98543345afb60de073f294e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthPrefab: {instanceID: 0}
+  - barPos: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

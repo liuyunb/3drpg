@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b91a01af4623f524c931154b8d0af275, type: 3}
+  m_Name: TwoHandSword
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: TwoHandSword
+  itemIcon: {fileID: 21300000, guid: 3d33a29192a5064479563e37e5c7b7a9, type: 3}
+  itemAmount: 1
+  itemDetials: "\u85AA\u708E\u5927\u5251\uFF01\uFF01\u85AA\u708E\u6C38\u71C3\uFF01\uFF01"
+  stackable: 0
+  attackData: {fileID: 11400000, guid: c363d1d16374b2a43b5b71704f557382, type: 2}
+  itemPrefab: {fileID: 4222613790183993415, guid: baf17e5e4610fb543a63d994d684cdc4, type: 3}
+  animator: {fileID: 22100000, guid: 9acb1ea0483b04e46b7c1f5ce67c90fc, type: 2}
+  usableData: {fileID: 0}
